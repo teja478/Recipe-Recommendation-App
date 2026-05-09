@@ -16,13 +16,13 @@ The application allows users to:
 - Explore recipe details interactively
 
 ## Features
-✔ AI-powered recipe recommendations  
-✔ Ingredient-based recipe search  
-✔ NLP-based similarity matching  
-✔ User ratings system  
-✔ Saved recipes functionality  
-✔ Interactive Streamlit UI  
-✔ Fast recommendation engine  
+-AI-powered recipe recommendations  
+-Ingredient-based recipe search  
+-NLP-based similarity matching  
+-User ratings system  
+-Saved recipes functionality  
+-Interactive Streamlit UI  
+-Fast recommendation engine  
 
 ## Tech Stack
 - Python
